@@ -16,6 +16,7 @@ I have a compiled binary for windows users, if you don't have golang environment
 - Add file extension filter.
 - Support multi threads download.
 - Add log files for each download/update task.
+- Support other Supercell's games, eg: Clash of Clan, Brawl Stars.
 
 ## Usage
 ### scdownload clone
@@ -50,3 +51,7 @@ Usage:
 Flags:
   -h, --help   help for pull
 ```
+
+## Supercell Game Cdn lists
+Clash Royale: game-assets.clashroyaleapp.com
+Clash Royale China: cr-cdn.supercellgame.cn
