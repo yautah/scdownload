@@ -37,7 +37,7 @@ var cloneCmd = &cobra.Command{
 func init() {
 	rootCmd.AddCommand(cloneCmd)
 
-	cloneCmd.Flags().StringP("domain", "u", "game-assets.clashroyaleapp.com", "资源cdn域名")
+	cloneCmd.Flags().StringP("domain", "d", "game-assets.clashroyaleapp.com", "资源cdn域名")
 	cloneCmd.Flags().StringP("output", "o", "./", "资源下载路径")
 	cloneCmd.Flags().StringP("extension", "e", "all", "仅下载指定扩展名的文件")
 	cloneCmd.Flags().StringP("fingerprint", "f", "acf932573295414ef92479e9240aecb0854a70a7", "fingerprint文件中的hash值")

@@ -30,7 +30,7 @@ Global Flags:
   -g, --game string   指定游戏类型 (default "cr")
 
 Flags:
-  -u, --domain string        资源cdn域名 (default "game-assets.clashroyaleapp.com")
+  -d, --domain string        资源cdn域名 (default "game-assets.clashroyaleapp.com")
   -f, --fingerprint string   fingerprint文件中的hash值 (default "acf932573295414ef92479e9240aecb0854a70a7")
   -o, --output string        资源下载路径 (default "./")
   -e, --extension string     todo: 仅下载指定扩展名的文件 (default "all")
