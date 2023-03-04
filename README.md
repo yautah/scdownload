@@ -41,6 +41,7 @@ Flags:
 
 ### scdownload pull
 The `scdownload pull` command will checked your downloaded files, and update your files from the latest fingerprint files.
+
 Just enter the download assets directory, execute `scdownload pull`.
 ```console
 更新当前资源包内资源
