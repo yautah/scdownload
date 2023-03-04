@@ -53,5 +53,5 @@ Flags:
 ```
 
 ## Supercell Game Cdn lists
-Clash Royale: game-assets.clashroyaleapp.com
-Clash Royale China: cr-cdn.supercellgame.cn
+* Clash Royale: game-assets.clashroyaleapp.com
+* Clash Royale China: cr-cdn.supercellgame.cn
