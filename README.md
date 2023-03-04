@@ -10,7 +10,11 @@ go get -u github.com/yautah/scdownload@latest
 
 ## Windows User
 I have a compiled binary for windows users, if you don't have golang environment.
+- [scdownload.exe](https://www.aliyundrive.com/s/NYTL8AsnHr9)
 
+## ToDo
+- Add file extension filter.
+- Support multi threads download.
 
 ## Usage
 ### scdownload clone
@@ -35,6 +39,7 @@ Flags:
 
 ### scdownload pull
 The `scdownload pull` command will checked your downloaded files, and update your files from the latest fingerprint files.
+Just enter the download assets directory, execute `scdownload pull`.
 ```console
 更新当前资源包内资源
 
