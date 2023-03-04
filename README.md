@@ -15,6 +15,7 @@ I have a compiled binary for windows users, if you don't have golang environment
 ## ToDo
 - Add file extension filter.
 - Support multi threads download.
+- Add log files for each download/update task.
 
 ## Usage
 ### scdownload clone
